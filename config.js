@@ -18,9 +18,9 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-WtkwCTSS#p3WspaJx4CMbe7GvqIYLFqKWkcCNFSquWnpAaTznbyw"
+global.Owner = ["22502331988"]; //like 22502331988
+global.OwnerName =  "༆ʟᴏᴜᴋsᴏɴ ᵘᶻᵘᵐᵃᵏⁱ༒";
 global.BotName = "NARUTO-MD";
 global.packname = "༆ʟᴏᴜᴋsᴏɴ ᵘᶻᵘᵐᵃᵏⁱ༒";                             //Do not change.
 global.author = "༆ʟᴏᴜᴋsᴏɴ ᵘᶻᵘᵐᵃᵏⁱ༒";                               //Do not change.
