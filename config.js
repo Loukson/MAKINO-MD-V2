@@ -18,7 +18,7 @@ global.ANTI_BOT = false;
 global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
-global.SESSION_ID = process.env.SESSION_ID || ""
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-862b21e4-ead5-4805-87ed-70ca61b00b4f"
 global.Owner = ["2349151864541"]; //like 2347080968564 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
